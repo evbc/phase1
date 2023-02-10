@@ -1,7 +1,7 @@
 # Phase 1 Projekt
 
 ## Präambel
-
+0
 Die Agenda dient als Leitfaden für das Projekt, bei dem eine Helm Chart für eine eigene Applikation mit API, Datenbank und webfrontend erstellt und auf einem Cluster ausgerollt werden soll. Darüber hinaus soll ein ausführliches Betriebshandbuch erstellt werden, das den kompletten Rollout und Betrieb der Software beschreibt. Die Agenda fasst die wichtigsten Schritte und Ziele des Projekts zusammen und dient als Orientierung für alle Beteiligten.
 
 ## Agenda
@@ -11,7 +11,7 @@ Die Agenda dient als Leitfaden für das Projekt, bei dem eine Helm Chart für ei
 - Auswahl der geeigneten Technologien
 - Erstellung eines technischen Konzepts
 - Erstellung einer Projektstruktur
-### Entwicklung:
+### Entwicklung(Mahad):
 - Implementierung der API
 - Implementierung des webfrontends
 - Implementierung der Datenbank
