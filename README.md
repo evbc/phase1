@@ -2,7 +2,7 @@
 
 ## Präambel
 0
-Die Agenda dient als Leitfaden für das Projekt, bei dem ein Helm Chart für eine eigene Applikation mit API, Datenbank und webfrontend erstellt und auf einem Cluster ausgerollt werden soll. Darüber hinaus soll ein ausführliches Betriebshandbuch erstellt werden, das den kompletten Rollout und Betrieb der Software beschreibt. Die Agenda fasst die wichtigsten Schritte und Ziele des Projekts zusammen und dient als Orientierung für alle Beteiligten.
+Die Agenda dient als Leitfaden für das Projekt, bei dem eine Helm Chart für eine eigene Applikation mit API, Datenbank und webfrontend erstellt und auf einem Cluster ausgerollt werden soll. Darüber hinaus soll ein ausführliches Betriebshandbuch erstellt werden, das den kompletten Rollout und Betrieb der Software beschreibt. Die Agenda fasst die wichtigsten Schritte und Ziele des Projekts zusammen und dient als Orientierung für alle Beteiligten.
 
 ## Agenda
 
@@ -25,6 +25,10 @@ Die Agenda dient als Leitfaden für das Projekt, bei dem ein Helm Chart für ein
 - Implementierung der Datenbank
 ### Erstellung des Helm Charts (Yasin):
 - Definition der Templates und Konfigurationen
+   - YAML Textdatei mit endung .yaml
+   - jeweils neuen Chart erstellen mit "helm create [NAME]"
+   - Einrückungen bedenken mit Leertaste und Tab
+   - Kommentare hinterlegt, damit Kollegen wissen worum es sich handelt z.B. Funktion erklärung
 - Integration der bereits entwickelten Teile
 ### Dokumentation (JHG):
 - [ ] Erstellung des Betriebshandbuchs
