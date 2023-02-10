@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: some-mysql-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: some-mysql
+  template:
+    metadata:
+      labels:
+        app: some-mysql
+    spec:
+      containers:
+        - name: some-mysql
+          image: mysql:latest
+          env:
+            - name: MYSQL_ROOT_PASSWORD
+              value: my-secret-pw
+
