@@ -6,7 +6,7 @@ Die Agenda dient als Leitfaden für das Projekt, bei dem ein Helm Chart für ein
 
 ## Agenda
 
-### Planung(JB):
+### Planung:
 - Klärung der Anforderungen an die Applikation und die Datenbank
   - SQL-Datenbank
   - API
@@ -15,27 +15,20 @@ Die Agenda dient als Leitfaden für das Projekt, bei dem ein Helm Chart für ein
   - Container
 - Auswahl der geeigneten Technologien
   - Meeting "Klärung der zur Auswahl stehenden Technologien"
+  - Termin: 13.02.23 von 13 - 16 Uhr Kundenworkshop
 - Erstellung eines technischen Konzepts
   - Visuelle Übersicht zur Kundenpräsentation
 - Erstellung einer Projektstruktur
   - in Bearbeiteung
-### Entwicklung(Mahad):
- Benötigten Komponenten: 
- - 4 config files: 
-          -Configmap (DB Endpoint)
-          -Secret ( DB User & pwd)
-          -Deployment & service ( DB application mit internal servcie)
-          -Deployment & Service ( eigene webapp mit external service)
-          
+
+### Entwicklung:        
 - Implementierung der API
 - Implementierung des webfrontends
 - Implementierung der Datenbank
-  - configmap.yaml und secret.yaml script anlegen
-  -
-### Erstellung des Helm Charts (Yasin):
+### Erstellung des Helm Charts:
 - Definition der Templates und Konfigurationen
 - Integration der bereits entwickelten Teile
-### Dokumentation (JHG):
+### Dokumentation:
 - [ ] Betriebshandbuch
   - [ ] Erstellung des Betriebshandbuchs
     - [ ] Struktur Betriebshandbuch aufsetzen
@@ -44,12 +37,21 @@ Die Agenda dient als Leitfaden für das Projekt, bei dem ein Helm Chart für ein
   - [ ] Konfigurationen abfragen
 - [ ] Dokumentation der Deployment-Schritte
   - [ ] Deployment-Schritte abfragen
-### Testen und Validierung (Behnur):
+### Testen und Validierung:
 - Durchführung von Funktionstests
 - Überprüfung der Skalierbarkeit
 - Überprüfung der Zuverlässigkeit
-### Deployment (Erik):
+### Deployment:
 - Erstellung des Clusters
+  1. Auswahl des Kuberneres Clusters
+    - Überblick über verschiedene Kubernetes Environments sammeln
+    - Anforderungen beachten
+    - Auswahl des Systems in Beachtung der Anforderungen 
+  2. Installation des Clusters 
+    - Installationsguide anschauen 
+    - Quickstart durchführen 
+  3. Erstes Projekt erstellen
+  - Ergebnis Kubernetes Cluster (https://github.com/k3s-io/k3s) 
 - Installation des Helm Charts auf dem Cluster
 - Überprüfung der Funktionalität
 ### Betrieb:
