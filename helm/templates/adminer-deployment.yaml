@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: some-adminer-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: some-adminer
+  template:
+    metadata:
+      labels:
+        app: some-adminer
+    spec:
+      containers:
+        - name: some-adminer
+          image: adminer:latest
+          env:
+            - name: ADMINER_DEFAULT_SERVER
+              value: mysql-service
+
