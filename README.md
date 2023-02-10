@@ -11,7 +11,7 @@ Die Agenda dient als Leitfaden für das Projekt, bei dem eine Helm Chart für ei
 - Auswahl der geeigneten Technologien
 - Erstellung eines technischen Konzepts
 - Erstellung einer Projektstruktur
-### Entwicklung:
+### Entwicklung (Iryna):
 -  Implementierung der Datenbank
 -  Implementierung der API
 -  Implementierung des webfrontends
