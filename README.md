@@ -12,9 +12,9 @@ Die Agenda dient als Leitfaden für das Projekt, bei dem eine Helm Chart für ei
 - Erstellung eines technischen Konzepts
 - Erstellung einer Projektstruktur
 ### Entwicklung(Mahad, Iryna):
-- Implementierung der Datenbank
-- Implementierung der API
-- Implementierung des Webfrontends
+- Implementierung der Datenbank (wähle mysql)
+- Implementierung der API (wähle einen API-Generator)
+- Implementierung des Webfrontends (wähle Adminer)
 ### Erstellung des Helm Charts (Yasin):
 - Definition der Templates und Konfigurationen
 - Integration der bereits entwickelten Teile
