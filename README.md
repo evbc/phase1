@@ -1,6 +1,6 @@
 # Phase 1 Projekt
 
-## Präambel
+## Präambel(Andreas)
 
 Die Agenda dient als Leitfaden für das Projekt, bei dem eine Helm Chart für eine eigene Applikation mit API, Datenbank und webfrontend erstellt und auf einem Cluster ausgerollt werden soll. Darüber hinaus soll ein ausführliches Betriebshandbuch erstellt werden, das den kompletten Rollout und Betrieb der Software beschreibt. Die Agenda fasst die wichtigsten Schritte und Ziele des Projekts zusammen und dient als Orientierung für alle Beteiligten.
 
