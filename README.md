@@ -22,7 +22,7 @@ Die Agenda dient als Leitfaden für das Projekt, bei dem eine Helm Chart für ei
 - [ ] Erstellung des Betriebshandbuchs
 - [ ] Dokumentation der Konfigurationen und Einstellungen
 - [ ] Dokumentation der Deployment-Schritte
-### Testen und Validierung:
+### Testen und Validierung (Behnur):
 - Durchführung von Funktionstests
 - Überprüfung der Skalierbarkeit
 - Überprüfung der Zuverlässigkeit
