@@ -15,6 +15,7 @@ Die Agenda dient als Leitfaden für das Projekt, bei dem ein Helm Chart für ein
   - Container
 - Auswahl der geeigneten Technologien
   - Meeting "Klärung der zur Auswahl stehenden Technologien"
+  - Termin: 13.02.23 von 13 - 16 Uhr Kundenworkshop
 - Erstellung eines technischen Konzepts
   - Visuelle Übersicht zur Kundenpräsentation
 - Erstellung einer Projektstruktur
