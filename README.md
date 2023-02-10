@@ -23,7 +23,7 @@ Die Agenda dient als Leitfaden für das Projekt, bei dem eine Helm Chart für ei
 - Implementierung der API
 - Implementierung des webfrontends
 - Implementierung der Datenbank
-### Erstellung des Helm Charts:
+### Erstellung des Helm Charts (Yasin):
 - Definition der Templates und Konfigurationen
 - Integration der bereits entwickelten Teile
 ### Dokumentation (JHG):
@@ -34,7 +34,7 @@ Die Agenda dient als Leitfaden für das Projekt, bei dem eine Helm Chart für ei
 - Durchführung von Funktionstests
 - Überprüfung der Skalierbarkeit
 - Überprüfung der Zuverlässigkeit
-### Deployment:
+### Deployment (Erik):
 - Erstellung des Clusters
 - Installation des Helm Charts auf dem Cluster
 - Überprüfung der Funktionalität
