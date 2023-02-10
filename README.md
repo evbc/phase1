@@ -8,9 +8,17 @@ Die Agenda dient als Leitfaden für das Projekt, bei dem eine Helm Chart für ei
 
 ### Planung(JB):
 - Klärung der Anforderungen an die Applikation und die Datenbank
+  - SQL-Datenbank
+  - API
+  - webfrontend
+  - Cluster
+  - Container
 - Auswahl der geeigneten Technologien
+  - Meeting "Klärung der zur Auswahl stehenden Technologien"
 - Erstellung eines technischen Konzepts
+  - Visuelle Übersicht zur Kundenpräsentation
 - Erstellung einer Projektstruktur
+  - in Bearbeiteung
 ### Entwicklung(Mahad):
 - Implementierung der API
 - Implementierung des webfrontends
