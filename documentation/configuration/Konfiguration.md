@@ -1,3 +1,0 @@
-# Konfiguration & Einstellungen
-
-Inhalt folgt
