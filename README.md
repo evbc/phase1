@@ -20,9 +20,18 @@ Die Agenda dient als Leitfaden für das Projekt, bei dem ein Helm Chart für ein
 - Erstellung einer Projektstruktur
   - in Bearbeiteung
 ### Entwicklung(Mahad):
+ Benötigten Komponenten: 
+ - 4 config files: 
+          -Configmap (DB Endpoint)
+          -Secret ( DB User & pwd)
+          -Deployment & service ( DB application mit internal servcie)
+          -Deployment & Service ( eigene webapp mit external service)
+          
 - Implementierung der API
 - Implementierung des webfrontends
 - Implementierung der Datenbank
+  - configmap.yaml und secret.yaml script anlegen
+  -
 ### Erstellung des Helm Charts (Yasin):
 - Definition der Templates und Konfigurationen
 - Integration der bereits entwickelten Teile
