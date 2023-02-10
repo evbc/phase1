@@ -6,7 +6,7 @@ Die Agenda dient als Leitfaden für das Projekt, bei dem eine Helm Chart für ei
 
 ## Agenda
 
-### Planung:
+### Planung(JB):
 - Klärung der Anforderungen an die Applikation und die Datenbank
 - Auswahl der geeigneten Technologien
 - Erstellung eines technischen Konzepts
