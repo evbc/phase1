@@ -26,7 +26,7 @@ Die Agenda dient als Leitfaden für das Projekt, bei dem eine Helm Chart für ei
 - Durchführung von Funktionstests
 - Überprüfung der Skalierbarkeit
 - Überprüfung der Zuverlässigkeit
-### Deployment:
+### Deployment (Erik):
 - Erstellung des Clusters
 - Installation des Helm Charts auf dem Cluster
 - Überprüfung der Funktionalität
